@@ -7,7 +7,7 @@ public class ImageLoaderScript : MonoBehaviour {
     SpriteRenderer wheelImgRender;
     public string url;
 	void Start () {
-        wheelImgRender = this.GetComponent<SpriteRenderer>() as SpriteRenderer;
+  //      wheelImgRender = this.GetComponent<SpriteRenderer>() as SpriteRenderer;
 
         
 	
